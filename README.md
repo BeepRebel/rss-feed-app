@@ -23,7 +23,7 @@ Follow these steps to set up and run the project:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/rss-feed-app.git
+    git clone https://github.com/BeepRebel/rss-feed-app.git
     cd rss-feed-app
     ```
 
