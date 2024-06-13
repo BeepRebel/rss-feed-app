@@ -120,14 +120,10 @@ If you encounter any issues during setup or running the application, consider th
 - Verify the `.env` file configuration, especially the database connection.
 - Check the server logs for any errors (`storage/logs/laravel.log`).
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source.
 
 ## Contact
 
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, please contact charvipahuja2385@gmail.com(mailto:charvipahuja2385@gmail.com).
