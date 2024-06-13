@@ -1,0 +1,45 @@
+/* public/css/styles.css */
+
+/* Style the container */
+.container {
+    max-width: 800px; /* Adjust container width as needed */
+    margin: 0 auto; /* Center align the container */
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the table */
+#rssfeed-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+/* Style table headers */
+#rssfeed-table th {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Style table rows */
+#rssfeed-table td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Style links inside table */
+#rssfeed-table a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+/* Adjust image sizes within table */
+#rssfeed-table img {
+    max-width: 100%; /* Ensure images do not exceed their container width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Prevent inline image issues */
+    margin: auto; /* Center images within their container */
+}
